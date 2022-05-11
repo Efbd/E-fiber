@@ -36,6 +36,7 @@ https://cdn.appv.jagobd.com:444/live-orgin/nexustv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fj8nxOw.png" group-title="BD BANGLA",CHANNEL 9 HD
 http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/2316.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0rPdpW9/MB-TV.jpg" group-title="BD BANGLA",MOVIE BANGLA
 https://cdn.appv.jagobd.com:444/live-orgin/moviebanglalink2.stream/chunks.m3u8
 
@@ -103,6 +104,8 @@ https://cdn.appv.jagobd.com:444/live-orgin/magicbanglatv.stream/chunks.m3u8
 https://cdn.appv.jagobd.com:444/live-orgin/atnmusic.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title="BD BANGLA",GAAN BANGLA
 https://cdn.appv.jagobd.com:444/live-orgin/gaanbangla-8-orgd.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/58YDwk.jpg" group-title="BD BANGLA",RTV MUSIC
+https://bdcast-live2.b-cdn.net/jago/1/live-orgin/rtvmusic.stream/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="BD BANGLA",SANGEET BANGLA
@@ -224,6 +227,10 @@ http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4552.m3u8
 http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4553.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/iA4v1yN.png" group-title="English" ,MN+ HD
 http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4555.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/K8YUMMt.png" group-title="English", Star World HD [HD]
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4556.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/msSkZ5F.png" group-title="English", MNX HD [HD]
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4557.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/542VNXV.png" group-title="FCN-KIDS" ,Nick
 http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4561.m3u8
@@ -251,6 +258,7 @@ http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/2308.m3u8
 http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/2309.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7Impq13.png" group-title="Music" ,E24 Music
 http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/2349.m3u8
+
 
 
 #MODIFIED BY E-FIBERBD
