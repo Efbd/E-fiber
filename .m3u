@@ -1,0 +1,261 @@
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/xN5TNtJ.png",ZEE TV HD
+http://103.167.190.250/hls/zeetv.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/UGKHkDS.png",Star Plus HD
+http://103.167.190.250/hls/starplus.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/x2qwIpL.png",Sony HD
+http://103.167.190.250/hls/sonyen.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/KRjdRnV.png",Colors HD
+http://103.167.190.250/hls/colore-tv-hd.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/1GuSyCr.png",&Pictures HD
+http://103.167.190.250/hls/andpictures.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/dn923Mf.png",Zee Cinema HD
+http://103.167.190.250/hls/zeecinemahd.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/9056B1t.png",Sony Max HD
+http://103.167.190.250/hls/sony-maxhd.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/56bLnJP.png",Star Gold HD
+http://103.167.190.250/hls/stargold.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/KRjdRnV.png",Colors Cineplex HD
+http://103.167.190.250/hls/colorscineplex.m3u8
+
+#EXTINF:-1 group-title="IN:HINDI" tvg-logo="https://imgur.com/AMhvwJB.png",GP:C-Star Plus HD
+http://tv2.ebox.live:8080/live/star-plus.m3u8
+#EXTINF:-1 group-title="IN:HINDI" tvg-logo="https://imgur.com/qQeesU6.png",GP:C-Sony Sab HD
+http://tv2.ebox.live:8080/live/sony-sab.m3u8
+#EXTINF:-1 group-title="IN:HINDI" tvg-logo="https://imgur.com/9SYqIRU.png",GP:C-Zee TV HD
+http://tv2.ebox.live:8080/live/zee-tv.m3u8
+#EXTINF:-1 group-title="IN:HINDI" tvg-logo="https://imgur.com/0aWOFB9.png",GP:C-Colors HD
+http://tv2.ebox.live:8080/live/colors.m3u8
+#EXTINF:-1 group-title="IN:HINDI" tvg-logo="https://imgur.com/oTt7D3K.png",GP:C-Sony HD
+http://tv2.ebox.live:8080/live/sonyhd.m3u8
+#EXTINF:-1 group-title="IN:BOLLYWOOD" tvg-logo="https://imgur.com/vGq343l.png",GP:C-Star Gold
+http://tv2.ebox.live:8080/live/star-gold.m3u8
+#EXTINF:-1 group-title="IN:BOLLYWOOD" tvg-logo="https://imgur.com/ldXaLJK.png",GP:C-Zee Cinema HD
+http://tv2.ebox.live:8080/live/zee-cinema.m3u8
+#EXTINF:-1 group-title="IN:BOLLYWOOD" tvg-logo="https://imgur.com/ro7bedn.png",GP:C-Sony Max HD
+http://tv2.ebox.live:8080/live/sony-max.m3u8
+
+#EXTINF:-1 group-title="IN: HINDI" tvg-logo="https://imgur.com/x2qwIpL.png",GP:Amr Sony HD
+http://stream.amrbd.com:8082/SonyTVHD/index.m3u8
+#EXTINF:-1 group-title="IN: HINDI" tvg-logo="https://imgur.com/qQeesU6.png",GP:Amr Sony Sab HD
+http://103.136.200.246:8082/Sony_Sab/index.m3u8
+#EXTINF:-1 group-title="IN: BOLLYWOOD" tvg-logo="https://imgur.com/FepIOFs.png",GP:Amr Sony Max HD
+http://stream.amrbd.com:8082/Sony-Max/index.m3u8
+#EXTINF:-1 group-title="IN: BOLLYWOOD" tvg-logo="https://imgur.com/56bLnJP.png",GP:Amr Star Gold HD
+
+#EXTINF:-1 group-title="IN:HINDI" tvg-logo="https://imgur.com/sUpvnQ7.png",GP:E-&TV HD
+http://89.187.162.109/ANDTVHD/mono.m3u8
+#EXTINF:-1 group-title="IN:HINDI" tvg-logo="https://imgur.com/xN5TNtJ.png",GP:E-ZEE TV HD
+http://89.187.162.109/ZEETVHD/mono.m3u8
+#EXTINF:-1 group-title="IN:HINDI" tvg-logo="https://imgur.com/QD5t6Bn.png",GP:E-Star Bharat HD
+http://89.187.162.109/STARBHARATHD/mono.m3u8
+#EXTINF:-1 group-title="IN:HINDI" tvg-logo="https://imgur.com/yUla5jG.png",GP:E-STAR PLUS
+http://89.187.162.109/STARPLUSHD/mono.m3u8
+#EXTINF:-1 group-title="IN:HINDI" tvg-logo="https://imgur.com/0aWOFB9.png",GP:E-Colors HD
+http://89.187.162.109/COLORSHD/mono.m3u8
+#EXTINF:-1 group-title="IN:HINDI" tvg-logo="https://imgur.com/oTt7D3K.png",GP:E-Sony HD
+http://89.187.162.109/SONYHD/mono.m3u8
+
+
+#EXTINF:-1 group-title="fcn",HD/67 STAR PLUS
+http://tvserver3.roarzone.info:25461/live/roarhome/noyan/67.m3u8
+#EXTINF:-1 group-title="fcn",HD/68 COLORS
+http://tvserver3.roarzone.info:25461/live/roarhome/noyan/68.m3u8
+#EXTINF:-1 group-title="fcn",HD/75 STAR GOLD
+http://tvserver3.roarzone.info:25461/live/roarhome/noyan/75.m3u8
+#EXTINF:-1 group-title="fcn",HD/76 ZEE CINEMA
+http://tvserver3.roarzone.info:25461/live/roarhome/noyan/76.m3u8
+#EXTINF:-1 group-title="fcn",HD/77 SONY MAX
+http://tvserver3.roarzone.info:25461/live/roarhome/noyan/77.m3u8
+#EXTINF:-1 group-title="fcn",HD/78 &PICTURES
+http://tvserver3.roarzone.info:25461/live/roarhome/noyan/78.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/oTt7D3K.png" group-title="Hindi" ,Sony HD
+http://tvserver.aliflailabd.com:8989/sony-hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/AMhvwJB.png" group-title="Hindi" ,Star Plus HD
+http://tvserver.aliflailabd.com:8989/star-plus/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/9056B1t.png" group-title="Hindi" ,Sony Max HD
+http://tvserver.aliflailabd.com:8989/setmax/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Wynpxsy.png" group-title="Hindi" ,Sony Sab HD
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1385.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ZgBsnkO.png" group-title="Hindi" ,Star BharatHD
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1566.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/UGKHkDS.png" group-title="Hindi" ,Star Plus HD
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4517.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" group-title="Hindi" ,Sony HD
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4518.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/xN5TNtJ.png" group-title="Hindi" ,ZEE TV HD 
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4520.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/KRjdRnV.png" group-title="Hindi" ,Colors HD
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4522.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dn923Mf.png" group-title="Hindi Movie" ,Zee Cinema HD
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4521.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/9056B1t.png" group-title="Hindi Movie" ,Sony Max HD
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4519.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/KRjdRnV.png" group-title="Hindi Movie" ,Colors Cineplex HD
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4523.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/56bLnJP.png" group-title="Hindi Movie" ,Star Gold HD
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4524.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/cQdw1st.png" group-title="Star Jalsha" ,Star Jalsha HD
+http://103.167.190.250/hls/starjalsha.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/cQdw1st.png" group-title="Star Jalsha" ,Star Jalsha HD
+http://stream.amrbd.com:8082/Star-Jalsha/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/cQdw1st.png" group-title="Star Jalsha" ,Star Jalsha HD
+http://tvserver3.roarzone.info:25461/live/roarhome/noyan/30.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ppJO2Ep.png" group-title="Star Jalsha" ,Star Jalsha HD
+http://tvserver.aliflailabd.com:8989/star-jalsha/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/cQdw1st.png" group-title="Star Jalsha" ,Star Jalsha HD
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4509.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/cQdw1st.png" group-title="Star Jalsha" ,Star Jalsha HD
+http://103.132.16.98:8080/starjalshahd/mpegts
+#EXTINF:-1 tvg-logo="https://imgur.com/cQdw1st.png" group-title="Star Jalsha" ,Star Jalsha HD
+http://new-pro.tv:8080/live/Fernando/123321/72047.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/cQdw1st.png" group-title="Star Jalsha" ,Star Jalsha HD
+http://89.187.162.109/STARJALSHA/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/mYjXbH7.png" group-title="Zee Bangla" ,Zee Bangla HD
+http://103.167.190.250/hls/zeebanglahd.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/sVK7liT.png" group-title="Zee Bangla" ,Zee Bangla HD
+http://tv2.ebox.live:8080/live/zee-bangla.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/e5Ldh7e.png" group-title="Zee Bangla" ,Zee Bangla HD
+http://stream.amrbd.com:8082/ZeeBanglaHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/e5Ldh7e.png" group-title="Zee Bangla" ,Zee Bangla HD
+http://tvserver.aliflailabd.com:8989/zee-bangla/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/e5Ldh7e.png" group-title="Zee Bangla" ,Zee Bangla HD
+http://tvserver3.roarzone.info:25461/live/roarhome/noyan/34.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/mYjXbH7.png" group-title="Zee Bangla" ,Zee Bangla HD
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4511.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/mYjXbH7.png" group-title="Zee Bangla" ,Zee Bangla HD
+http://new-pro.tv:8080/live/Fernando/123321/72063.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/ghBUxYm.png" group-title="Colors Bangla" ,Colors Bangla HD
+http://103.167.190.250/hls/colorsbangla.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/IRjghTh.png" group-title="Colors Bangla" ,Colors Bangla HD
+http://tv2.ebox.live:8080/live/colors-bangla.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ghBUxYm.png" group-title="Colors Bangla" ,Colors Bangla HD
+http://stream.amrbd.com:8082/colorsbangla/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ghBUxYm.png" group-title="Colors Bangla" ,Colors Bangla HD
+http://tvserver3.roarzone.info:25461/live/roarhome/noyan/66.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ghBUxYm.png" group-title="Colors Bangla" ,Colors Bangla HD
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4513.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ghBUxYm.png" group-title="Colors Bangla" ,Colors Bangla HD
+http://new-pro.tv:8080/live/Fernando/123321/72085.m3u8
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/xN5TNtJ.png",ZEE TV HD
+http://103.167.190.250/hls/zeetv.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/UGKHkDS.png",Star Plus HD
+http://103.167.190.250/hls/starplus.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/x2qwIpL.png",Sony HD
+http://103.167.190.250/hls/sonyen.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/KRjdRnV.png",Colors HD
+http://103.167.190.250/hls/colore-tv-hd.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/1GuSyCr.png",&Pictures HD
+http://103.167.190.250/hls/andpictures.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/dn923Mf.png",Zee Cinema HD
+http://103.167.190.250/hls/zeecinemahd.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/9056B1t.png",Sony Max HD
+http://103.167.190.250/hls/sony-maxhd.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/56bLnJP.png",Star Gold HD
+http://103.167.190.250/hls/stargold.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/KRjdRnV.png",Colors Cineplex HD
+http://103.167.190.250/hls/colorscineplex.m3u8
+
+#EXTINF:-1 group-title="IN:HINDI" tvg-logo="https://imgur.com/AMhvwJB.png",GP:C-Star Plus HD
+http://tv2.ebox.live:8080/live/star-plus.m3u8
+#EXTINF:-1 group-title="IN:HINDI" tvg-logo="https://imgur.com/qQeesU6.png",GP:C-Sony Sab HD
+http://tv2.ebox.live:8080/live/sony-sab.m3u8
+#EXTINF:-1 group-title="IN:HINDI" tvg-logo="https://imgur.com/9SYqIRU.png",GP:C-Zee TV HD
+http://tv2.ebox.live:8080/live/zee-tv.m3u8
+#EXTINF:-1 group-title="IN:HINDI" tvg-logo="https://imgur.com/0aWOFB9.png",GP:C-Colors HD
+http://tv2.ebox.live:8080/live/colors.m3u8
+#EXTINF:-1 group-title="IN:HINDI" tvg-logo="https://imgur.com/oTt7D3K.png",GP:C-Sony HD
+http://tv2.ebox.live:8080/live/sonyhd.m3u8
+#EXTINF:-1 group-title="IN:BOLLYWOOD" tvg-logo="https://imgur.com/vGq343l.png",GP:C-Star Gold
+http://tv2.ebox.live:8080/live/star-gold.m3u8
+#EXTINF:-1 group-title="IN:BOLLYWOOD" tvg-logo="https://imgur.com/ldXaLJK.png",GP:C-Zee Cinema HD
+http://tv2.ebox.live:8080/live/zee-cinema.m3u8
+#EXTINF:-1 group-title="IN:BOLLYWOOD" tvg-logo="https://imgur.com/ro7bedn.png",GP:C-Sony Max HD
+http://tv2.ebox.live:8080/live/sony-max.m3u8
+
+#EXTINF:-1 group-title="IN: HINDI" tvg-logo="https://imgur.com/x2qwIpL.png",GP:Amr Sony HD
+http://stream.amrbd.com:8082/SonyTVHD/index.m3u8
+#EXTINF:-1 group-title="IN: HINDI" tvg-logo="https://imgur.com/qQeesU6.png",GP:Amr Sony Sab HD
+http://103.136.200.246:8082/Sony_Sab/index.m3u8
+#EXTINF:-1 group-title="IN: BOLLYWOOD" tvg-logo="https://imgur.com/FepIOFs.png",GP:Amr Sony Max HD
+http://stream.amrbd.com:8082/Sony-Max/index.m3u8
+#EXTINF:-1 group-title="IN: BOLLYWOOD" tvg-logo="https://imgur.com/56bLnJP.png",GP:Amr Star Gold HD
+
+#EXTINF:-1 group-title="IN:HINDI" tvg-logo="https://imgur.com/sUpvnQ7.png",GP:E-&TV HD
+http://89.187.162.109/ANDTVHD/mono.m3u8
+#EXTINF:-1 group-title="IN:HINDI" tvg-logo="https://imgur.com/xN5TNtJ.png",GP:E-ZEE TV HD
+http://89.187.162.109/ZEETVHD/mono.m3u8
+#EXTINF:-1 group-title="IN:HINDI" tvg-logo="https://imgur.com/QD5t6Bn.png",GP:E-Star Bharat HD
+http://89.187.162.109/STARBHARATHD/mono.m3u8
+#EXTINF:-1 group-title="IN:HINDI" tvg-logo="https://imgur.com/yUla5jG.png",GP:E-STAR PLUS
+http://89.187.162.109/STARPLUSHD/mono.m3u8
+#EXTINF:-1 group-title="IN:HINDI" tvg-logo="https://imgur.com/0aWOFB9.png",GP:E-Colors HD
+http://89.187.162.109/COLORSHD/mono.m3u8
+#EXTINF:-1 group-title="IN:HINDI" tvg-logo="https://imgur.com/oTt7D3K.png",GP:E-Sony HD
+http://89.187.162.109/SONYHD/mono.m3u8
+
+
+#EXTINF:-1 group-title="fcn",HD/67 STAR PLUS
+http://tvserver3.roarzone.info:25461/live/roarhome/noyan/67.m3u8
+#EXTINF:-1 group-title="fcn",HD/68 COLORS
+http://tvserver3.roarzone.info:25461/live/roarhome/noyan/68.m3u8
+#EXTINF:-1 group-title="fcn",HD/75 STAR GOLD
+http://tvserver3.roarzone.info:25461/live/roarhome/noyan/75.m3u8
+#EXTINF:-1 group-title="fcn",HD/76 ZEE CINEMA
+http://tvserver3.roarzone.info:25461/live/roarhome/noyan/76.m3u8
+#EXTINF:-1 group-title="fcn",HD/77 SONY MAX
+http://tvserver3.roarzone.info:25461/live/roarhome/noyan/77.m3u8
+#EXTINF:-1 group-title="fcn",HD/78 &PICTURES
+http://tvserver3.roarzone.info:25461/live/roarhome/noyan/78.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/oTt7D3K.png" group-title="Hindi" ,Sony HD
+http://tvserver.aliflailabd.com:8989/sony-hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/AMhvwJB.png" group-title="Hindi" ,Star Plus HD
+http://tvserver.aliflailabd.com:8989/star-plus/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/9056B1t.png" group-title="Hindi" ,Sony Max HD
+http://tvserver.aliflailabd.com:8989/setmax/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Wynpxsy.png" group-title="Hindi" ,Sony Sab HD
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1385.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ZgBsnkO.png" group-title="Hindi" ,Star BharatHD
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1566.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/UGKHkDS.png" group-title="Hindi" ,Star Plus HD
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4517.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" group-title="Hindi" ,Sony HD
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4518.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/xN5TNtJ.png" group-title="Hindi" ,ZEE TV HD 
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4520.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/KRjdRnV.png" group-title="Hindi" ,Colors HD
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4522.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dn923Mf.png" group-title="Hindi Movie" ,Zee Cinema HD
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4521.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/9056B1t.png" group-title="Hindi Movie" ,Sony Max HD
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4519.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/KRjdRnV.png" group-title="Hindi Movie" ,Colors Cineplex HD
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4523.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/56bLnJP.png" group-title="Hindi Movie" ,Star Gold HD
+http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4524.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
