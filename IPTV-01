@@ -79,10 +79,7 @@ http://103.55.144.46/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="LIVE SPORTS",T Sports HD 
 http://103.55.144.46/hls/t-sports.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/nYRFnW5.png" group-title="BD BANGLA" ,CHANNEL I
-http://103.55.144.46/hls/channeli.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/kA2ZJQB.png" group-title="BD BANGLA" ,NEXUS TV
-http://103.55.144.46/hls/nexus.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/zsahmn3.png" group-title="BD BANGLA" ,Maasranga HD
 http://103.55.144.46/hls/masranga.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/AMk8mRZ.png" group-title="BD BANGLA" ,INDEPENDENT
@@ -198,8 +195,6 @@ http://103.55.144.46/hls/bindass.m3u8
 https://stream.rangdhanu.live/MTV/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RpXwNZM.png" group-title="Music", Zoom
 https://stream.rangdhanu.live/Zoom/video.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/TWLVa2a.png" group-title="Music", 9XM
-https://stream.rangdhanu.live/9XM/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/E4NcxwB.png" group-title="Music", 9X Jalwaa
 https://stream.rangdhanu.live/9XJalwa/video.m3u8
 
