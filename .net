@@ -1,11 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" group-title="BD BANGLA",BTV World
 https://cdn.appv.jagobd.com:444/live-orgin/btvbd-office-sg.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sTZelfs.png" group-title="BD BANGLA",BTV CTG
-https://cdn.appv.jagobd.com:444/live-orgin/btvnational-ctg.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sTZelfs.png" group-title="BD BANGLA",SANGSAD TV
-https://cdn.appv.jagobd.com:444/live-orgin/songsodtv-world.stream/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="BD BANGLA",ANANDO TV
 https://cdn.appv.jagobd.com:444/live-orgin/anandatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="BD BANGLA",ATN BANGLA
@@ -14,8 +9,6 @@ https://cdn.appv.jagobd.com:444/live-orgin/atnbd-8-org.stream/playlist.m3u8
 https://cdn.appv.jagobd.com:444/live-orgin/atnislamictv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K43LsMQ.png" group-title="BD BANGLA",BANGLA TV
 https://cdn.appv.jagobd.com:444/live-orgin/banglatvhd.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kDmkexe.png" group-title="BD BANGLA",BIJOY TV
-https://cdn.appv.jagobd.com:444/live-orgin/bijoy00.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="BD BANGLA",BANGLAVISION
 https://cdn.appv.jagobd.com:444/live-orgin/banglav000.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pTJSGtj.png" group-title="BD BANGLA",BOISHAKHI TV
@@ -35,13 +28,11 @@ https://cdn.appv.jagobd.com:444/live-orgin/nexustv.stream/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fj8nxOw.png" group-title="BD BANGLA",CHANNEL 9 HD
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/2316.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/2316.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0rPdpW9/MB-TV.jpg" group-title="BD BANGLA",MOVIE BANGLA
 https://cdn.appv.jagobd.com:444/live-orgin/moviebanglalink2.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/58J4A1.jpg" group-title="BD BANGLA",BANGLA 21 TV
-https://cdn.appv.jagobd.com:444/live-orgin/bangla21tv000889956-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/58JDVi.jpg" group-title="BD BANGLA",CUMILLA 24 TV
 https://cdn.appv.jagobd.com:444/live-orgin/cumilla24.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/58JURC.jpg" group-title="BD BANGLA",CHANNEL S
@@ -62,8 +53,6 @@ https://cdn.appv.jagobd.com:444/live-orgin/nrb-eu.stream/chunks.m3u8
 https://cdn.appv.jagobd.com:444/live-orgin/thechanneltv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/58Ju8j.jpg" group-title="BD BANGLA",TiMES 24 IPTV
 https://cdn.appv.jagobd.com:444/live-orgin/times24tv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/5XsQvL.png" group-title="BD BANGLA",GLOBAL TV
-https://bd.jagobd.com:444/live-orgin/globaltv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/58JwcS.jpg" group-title="BD BANGLA",VARENDRA TV
 https://tempskyview.jagobd.com:441/live-orgin/varendratv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/58MA3k.png" group-title="BD BANGLA",CHANNEL S HD
@@ -97,7 +86,7 @@ http://162.244.81.142:1935/live/livestream/chunklist_w1681830417.m3u8
 https://live.tvdhaka.com:30443/globalbangla/jatv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/5XsSxS.jpg" group-title="BD BANGLA",Teliflim
 https://live.tvdhaka.com:30443/live/telefilm/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/9ArrdIr.png" group-title="BD BANGLA",MAGIC BANGLA TV
+#EXTINF:-1 tvg-logo="https://imgur.com/9ArrdIr.png" group-title="BD BANGLA",MAGIC BANGLA
 https://cdn.appv.jagobd.com:444/live-orgin/magicbanglatv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OTzS5Fc.png" group-title="BD BANGLA",ATN MUSIC
@@ -114,151 +103,150 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla/index.m
 http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="LIVE-SPORTS" ,GTV HD
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4506.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/4506.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="LIVE-SPORTS" ,Tsports HD 
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4539.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/4539.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="LIVE-SPORTS" ,T Sports HD
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/2317.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/2317.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/nYRFnW5.png" group-title="BD-BANGLA" ,CHANNEL I
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4503.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/4503.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/18m3T6f.jpg" group-title="BD-BANGLA" ,SOMOY TV
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4504.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/4504.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zsahmn3.png" group-title="BD-BANGLA" ,Maasranga HD
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4505.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/4505.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/AMk8mRZ.png" group-title="BD-BANGLA" ,INDEPENDENT
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4507.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/4507.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kA2ZJQB.png" group-title="BD-BANGLA" ,NEXUS TV
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4508.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/4508.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Tp3Kead.png" group-title="Indian Bangla" ,Enter 10 Bangla
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1355.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/1355.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RqJGZfm.png" group-title="Indian Bangla" ,Sony Aath
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4515.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/4515.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PW9hRDa.png" group-title="Indian Bangla" ,Sun Bangla
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4516.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/4516.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/cQdw1st.png" group-title="Indian Bangla" ,Star Jalsha HD
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4509.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/4509.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mYjXbH7.png" group-title="Indian Bangla" ,Zee Bangla HD
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4511.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/4511.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ghBUxYm.png" group-title="Indian Bangla" ,Colors Bangla HD
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4513.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/4513.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/jsYRd39.png" group-title="Bangla Cinema" ,Jalsha Movies HD
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4510.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/4510.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/SY46rYQ.png" group-title="Bangla Cinema" ,Zee Bangla Cinema HD
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4512.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/4512.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/HYcWvd9.png" group-title="Bangla Cinema" ,Colors Bangla Cinema
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4514.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/4514.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/7cLcHQ9.png" group-title="Hindi" ,And TV
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/2236.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/2236.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Wynpxsy.png" group-title="Hindi" ,Sony Sab HD
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1385.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/1385.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ZgBsnkO.png" group-title="Hindi" ,Star BharatHD
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1566.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/1566.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/UGKHkDS.png" group-title="Hindi" ,Star Plus HD
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4517.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/4517.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" group-title="Hindi" ,Sony HD
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4518.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/4518.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/xN5TNtJ.png" group-title="Hindi" ,ZEE TV HD 
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4520.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/4520.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KRjdRnV.png" group-title="Hindi" ,Colors HD
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4522.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/4522.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qQeesU6.png" group-title="Hindi" ,Sony Sab HD
 http://103.136.200.246:8082/Sony_Sab/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/dn923Mf.png" group-title="Hindi Movie" ,Zee Cinema HD
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4521.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/4521.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9056B1t.png" group-title="Hindi Movie" ,Sony Max HD
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4519.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/4519.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KRjdRnV.png" group-title="Hindi Movie" ,Colors Cineplex HD
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4523.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/4523.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/56bLnJP.png" group-title="Hindi Movie" ,Star Gold HD
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4524.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/4524.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/G0fh0PU.png" group-title="Hindi Movie" ,Star Gold2
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4525.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/4525.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nDLjaDL.png" group-title="Hindi Movie" ,Utv Action
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4526.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/4526.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1GuSyCr.png" group-title="Hindi Movie" ,&Pictures HD
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4527.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/4527.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KRjdRnV.png" group-title="Hindi Movie" ,Abc BollyWood
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4581.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/4581.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5B3TDVX.png" group-title="Hindi Movie" ,SETMAX2
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4500.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/4500.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/QOye6lA.png" group-title="Documentary" ,Discovery HD
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4531.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/4531.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/m7Cl2M9.png" group-title="Documentary" ,National Geographic HD
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4532.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/4532.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9etOm0d.png" group-title="Documentary" ,Animal Planet HD
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4533.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/4533.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dpf1I1U.png" group-title="Documentary" ,TravelXP
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4535.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/4535.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fKwtX8h.png" group-title="Documentary" ,TLC HD
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4537.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/4537.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ZY6bPmR.png" group-title="Documentary" ,BBC Earth HD
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4554.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/4554.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Ws3p8ld.png" group-title="Sports" ,Sony Six HD
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4540.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/4540.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/WZbjRM3.png" group-title="Sports" ,Sony Ten 1 HD
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4541.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/4541.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/p5DzCDr.png" group-title="Sports" ,Sony Ten 2 HD
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4542.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/4542.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rU424bI.png" group-title="Sports" ,Sony Ten 3 HD
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4543.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/4543.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/MQ5jhMz.png" group-title="Sports" ,Star Sports 1 HD
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4544.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/4544.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MD0cEBL.png" group-title="Sports" ,Star Sports 2 HD
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4545.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/4545.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ZTxVYed.png" group-title="Sports" ,Star Sports Select 1 HD
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4546.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/4546.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/pFgUCZF.png" group-title="Sports" ,Star Sports Select 2 HD
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4547.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/4547.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/uV8cQ94.png" group-title="English" ,Sony Pix HD
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4551.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/4551.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BNaXQWX.png" group-title="English" ,Movies Now HD
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4552.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/4552.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/iCOQK4B.png" group-title="English" ,Star Movies HD
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4553.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/4553.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/iA4v1yN.png" group-title="English" ,MN+ HD
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4555.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/4555.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/K8YUMMt.png" group-title="English", Star World HD [HD]
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4556.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/4556.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/msSkZ5F.png" group-title="English", MNX HD [HD]
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4557.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/4557.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/542VNXV.png" group-title="FCN-KIDS" ,Nick
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4561.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/4561.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2tjaJND.png" group-title="FCN-KIDS" ,CN
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4562.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/4562.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VKSpv5k.png" group-title="FCN-KIDS" ,POGO
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4563.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/4563.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XNnI0ie.png" group-title="FCN-KIDS" ,Sony Yay
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4560.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/4560.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/RpXwNZM.png" group-title="Music" ,Zoom
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4528.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/4528.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PxyoUY5.png" group-title="Music" ,Bindaas
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4529.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/4529.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TWLVa2a.png" group-title="Music" ,9XM
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/4538.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/4538.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4CbG36C.png" group-title="Music" ,Music India
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1383.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/1383.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/hIbJUum.png" group-title="Music" ,Kadak Hits
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1368.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/1368.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/UZ84Iv8.png" group-title="Music" ,MTV Beats
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/2308.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/2308.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/DKVLQ7m.png" group-title="Music" ,MTV
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/2309.m3u8
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/2309.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7Impq13.png" group-title="Music" ,E24 Music
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/2349.m3u8
-
+http://tv.crystaliptvbd.xyz:25461/live/Abuthaer/996633/2349.m3u8
 
 
 #MODIFIED BY E-FIBERBD
