@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://imgur.com/IFDlft0.png" group-title="WEBTV" ,EFN IPTV
+https://video-weaver.sin01.hls.ttvnw.net/v1/playlist/CpwFSm5ADP-jfEyJwphRPTq0WC3GqXCCZL78vsWzcjPLym_dMyOloklQg2ASyA0AY6f5hvrQfcjXJXyM7v9tiwPskuhcQBFQHkJLu2BVPFMx5GXh0iVZS1enwJtrcRrM930H5OZUksPh2gRg4n3ZvjIZ8qo7c-zcOj4F2L_S7bFMmhj8DMBo43FJCwRqVahjVT-z1_f-zn8ylGW3BhYxhxY1RohjnB-YrXAMaNI45gF6odWP2kYJ6Ffe7H-cJJepLRpydic5Z8x6y3gnNjdsQflEBw6ss24F4cTzaWOv_xtWRZIHfREIQPhEyr4Kho1EvCrT-BRqlEhRzSKfILaXkQBMgJm9jhgmkJ0itf6ZBtVIfiMg9-mzXOExGlRTIYOVTk-TfVD_XJbi7WXWS6hOek21qjYTdQsbi2CESOwinZLiqL7lSvQX8aBtPx9yzN7l3fLVi1cWrXWwXl1GZbQN7NkTk-mu_9WML3IDn7tvE0gyoX4xMy90KKn0Q5GGiplCCABrwxaihApNMAprHqTmiCHoac8-opTUIOoWmmIurx8pxRQ0wJq6ZHvd1KrjDLFfriaUNY_2SMNxo94nSxX6mVU0hmCKwcEISXsuV6i78v6IPB96C2iiy3SkD3OkqKEKQOzfOhlYd4R7zWtiwlh9LYn4YimjtEJ7nRjYSCJu6F4k9nJZUePXqemL5rLJgeQEDtNe9jlPKsC8_uTVkJsYNHVSxp4Oo_bnv7OtTfMEcm1Wz2JwP5gKD7lMDPoBuVL5V6ii02Q13EyAg6YFZHsV-ibiaL1uVIGp5uTJy1btUfOEMylW-f7L7QMvbXACuX1OdBSzPyYvAUuMEtM4F_jIlVG_9cOpcGXMr2ml7aDPOrmzuI05YOy37YkhgkergI0aDH1z0n3oekFlPtH16CABKgl1cy13ZXN0LTIw_wM.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/RR0Iv6V.png" group-title="BD BANGLA",BTV World
 https://bd.jagobd.com:444/live-orgin/btvbd-office-sg.stream/chunks.m3u8
@@ -192,9 +194,6 @@ http://103.55.144.46:80/hls/cn.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VKSpv5k.png" group-title="FCN-KIDS" ,POGO SD
 http://103.55.144.46:80/hls/pogo.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://imgur.com/nytj00q.png" group-title="WEBTV" ,FCN TV
-https://video-weaver.sin01.hls.ttvnw.net/v1/playlist/CpwFjw_ea_GRPq-Qc9cjXJJrafM0Dv-X2L-HadKtjPE0CKheh3CFV1Bg4-CMSb1qaLasQfBLahA9bBTJ1cwPBaCa02S3AbJ09isdSMZjR3fsomNX0w2ldCS7VyhBQnSMSmrLYFfhe9GSgB7VXS4h6B8UOdYPUe0_DxhTj27yvD6DLlAYoBTnm75Hm9k7SKpixvtTPT6AeDHjlkVTBxZgkFB9hJcHRakLSwfTCLIJaybzq9lJtbL6kvq0jIBxocV3SrTBNhjctydp4u23pm_EIGZcSK77hs3_UivP0CIKn11sVAh85vxyHGW68YYRsVP0hiiMmha-1a_2NsgYKoN7hdwnjolVXQE6ZbZJAt3UIXvI41b7PcH3AZqgRok_PgFDHNb6v5HwYOtHS7arvLTFfmixDNIjywS6CfYbFR29Zm3IuF7-p7YoWtOZtGCr_f7m9ThmVK-l79q-EReieV9OTicx_TUaPzZ_KR5sPicpPghiBVlU5ongCO3nnxN3hKhklybLceLhJ6OUU-yomPLjFiQhzzU8woxU-7hXJJYyTn9Vmqg64XR3OHDVLPFrkaVH6g1nYF7Le1T0ta74RCF0ZeiUi0C-6JlYZ0gMaPFYGl83UoAPgmDZPqEwXSON8GQa-K0NF0vcU5AmdFZiVTceb4cJjBn2TS9RDpahqO7ghzhTP89vxymRKqPN0agOC2HUsCbE2hKou-ddb4YrmEMWyVvv23Qg3E1E8LS_FKNAJvjBtXh0myiERNdAF1uplRtjr-Jkakzj6vlc42y9rakFT9jRIyBmjfkWFhfE437rXkGHWnyBujnVDK0ccVY0XRgFk5FHHz2u64V_drENdwQwjRVPnnukXcc1iCXrLDfUtJFv5nbMnQG-2PGAX1nhLqgaDBp5-F4qFP4xPUHBPyABKgl1cy13ZXN0LTIw_gM.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LNGJDc4.png" group-title="Indian Bangla", Amar Bangla
 http://stream1.livebox.co.in/kbcreationhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Tp3Kead.png" group-title="Indian Bangla", Enter 10 Bangla
