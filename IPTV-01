@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://imgur.com/NZcVS9L.png" group-title="EFTV" ,EFN IPTV
+https://video-weaver.sin01.hls.ttvnw.net/v1/playlist/CogF3uuJB08etps-qAJSL2AmEKEjom0_RDhoFNJENNXVDrJVdzZoSWCtxIZFF7m7bqIDfRPJhDLLGMM9DV-vo_LQ3qzgtPK4cPpZ5WGQiXB6m2wzkyKvnETszGlhU4uUgwvtjvCCvfvdOxP5l6khcWLSG3irbHjOvZsHplMu1U_RLx6m4sXbLHMnynE0GitQQ8NhFM7zxGO7QR6-etbM3T6vOam7ZhMlZc8xcjgmbSYTyCyQDennarSwxHACWtBqQ1XZlN1JOdy8Wl8TuadpGlqS9AQMokcNAmOVsJpVQT7xPyPaJ0JyuqAU6sQ81nIKp_VA_flhYs9btuLAUzzpOryueg1WQNvP44k12CPfT4dhP2HRU3dx4aQHj8y3j6LMG2zOknaL_5-4pay41c7pDMPLhmTqNnij0liLDGEnw2-eNpMQlIyxXzHm8G0pVqmLMyCUuSr-UDwnhsgSSaJC7OYSnY8--5rX9D_k72eRo24rJQL6c4SIwnoJ0eNjT3-QPIwYySWbbPJkO9nv5l3kEzC7DgzxAX-pqYLw16gvSNnYfP7GHNi-rSrV3_MqAhlv7XSlMaR4UVchB9Ngjw7kd5ohPafo_Za8cvMJRg5TPrv48TXcvGKv3x5K9B3PGH6PmCP9ydnQVckq3OXaSbi2tImGU7BesDvbLxfhwYqmacEQD-ElRybHVqu0pVwn4TzoubqQBo15J7UZ1Fb52FaoQ75Tih1FCQC9G1BZAXoG3O_HfCHOBCyFVM5ED21slXnDb-OCLvjlpxJ6CjaXGYgWOb2hXDgZl67Jh4-P5pwCtq14pUlsq8CQcdzuksw1OOgmAsRpiWjzx_lRZaEFCJCermoS0uT3bs6hHhcDGgyynXv6ys4qMf3C2yAgASoJdXMtd2VzdC0yMIoE.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/RR0Iv6V.png" group-title="BD BANGLA",BTV World
 https://bd.jagobd.com:444/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/h5FhOWT.png" group-title="BD BANGLA",ANANDO TV
