@@ -1,268 +1,348 @@
 #EXTM3U
-#EXTINF:-1 group-title="fcn",HD/1GTV
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/1.m3u8
-#EXTINF:-1 group-title="fcn",HD/2ATN
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/2.m3u8
-#EXTINF:-1 group-title="fcn",HD/3BANGLAVISION
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/3.m3u8
-#EXTINF:-1 group-title="fcn",HD/4CHANNEL9
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/4.m3u8
-#EXTINF:-1 group-title="fcn",HD/5CHANNEL 24
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/5.m3u8
-#EXTINF:-1 group-title="fcn",HD/6CHANNEL I
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/6.m3u8
-#EXTINF:-1 group-title="fcn",HD/7DBC
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/7.m3u8
-#EXTINF:-1 group-title="fcn",HD/8DEEPTO
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/8.m3u8
-#EXTINF:-1 group-title="fcn",HD/9DESH
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/9.m3u8
-#EXTINF:-1 group-title="fcn",HD/10DURONTO
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/10.m3u8
-#EXTINF:-1 group-title="fcn",HD/11EKATTOR
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/11.m3u8
-#EXTINF:-1 group-title="fcn",HD/12INDEPENDENT
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/12.m3u8
-#EXTINF:-1 group-title="fcn",HD/13JAMUNA
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/13.m3u8
-#EXTINF:-1 group-title="fcn",HD/14 RTV
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/14.m3u8
-#EXTINF:-1 group-title="fcn",HD/15SATV
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/15.m3u8
-#EXTINF:-1 group-title="fcn",HD/16ANANDO
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/16.m3u8
-#EXTINF:-1 group-title="fcn",HD/17SOMOY
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/17.m3u8
-#EXTINF:-1 group-title="fcn",HD/18NEWS24
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/18.m3u8
-#EXTINF:-1 group-title="fcn",HD/19MB
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/19.m3u8
-#EXTINF:-1 group-title="fcn",HD/20STEN1
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/20.m3u8
-#EXTINF:-1 group-title="fcn",HD/21STEN2
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/21.m3u8
-#EXTINF:-1 group-title="fcn",HD/22STEN3
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/22.m3u8
-#EXTINF:-1 group-title="fcn",HD/23
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/23.m3u8
-#EXTINF:-1 group-title="fcn",HD/24SIX
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/24.m3u8
-#EXTINF:-1 group-title="fcn",HD/25 STAR SPORTS 1
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/25.m3u8
-#EXTINF:-1 group-title="fcn",HD/26 STAR SPORTS 2
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/26.m3u8
-#EXTINF:-1 group-title="fcn",HD/27
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/27.m3u8
-#EXTINF:-1 group-title="fcn",HD/28
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/28.m3u8
-#EXTINF:-1 group-title="fcn",HD/29ZBC
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/29.m3u8
-#EXTINF:-1 group-title="fcn",HD/30
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/30.m3u8
-#EXTINF:-1 group-title="fcn",HD/31
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/31.m3u8
-#EXTINF:-1 group-title="fcn",HD/32
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/32.m3u8
-#EXTINF:-1 group-title="fcn",HD/33
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/33.m3u8
-#EXTINF:-1 group-title="fcn",HD/34 ZEE BANGLA
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/34.m3u8
-#EXTINF:-1 group-title="fcn",HD/35NGO
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/35.m3u8
-#EXTINF:-1 group-title="fcn",HD/36SONY SAB HD
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/36.m3u8
-#EXTINF:-1 group-title="fcn",HD/37
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/37.m3u8
-#EXTINF:-1 group-title="fcn",HD/38 SONY
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/38.m3u8
-#EXTINF:-1 group-title="fcn",HD/39
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/39.m3u8
-#EXTINF:-1 group-title="fcn",HD/40 ZEE TV
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/40.m3u8
-#EXTINF:-1 group-title="fcn",HD/41 SONY PIX
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/41.m3u8
-#EXTINF:-1 group-title="fcn",HD/42
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/42.m3u8
-#EXTINF:-1 group-title="fcn",HD/43
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/43.m3u8
-#EXTINF:-1 group-title="fcn",HD/44
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/44.m3u8
-#EXTINF:-1 group-title="fcn",HD/45 NOW
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/45.m3u8
-#EXTINF:-1 group-title="fcn",HD/46 MTV
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/46.m3u8
-#EXTINF:-1 group-title="fcn",HD/47
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/47.m3u8
-#EXTINF:-1 group-title="fcn",HD/48 9XM
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/48.m3u8
-#EXTINF:-1 group-title="fcn",HD/49
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/49.m3u8
-#EXTINF:-1 group-title="fcn",HD/50 MOHONA
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/50.m3u8
-#EXTINF:-1 group-title="fcn",HD/51 MASSRANGA
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/51.m3u8
-#EXTINF:-1 group-title="fcn",HD/53 BTV
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/53.m3u8
-#EXTINF:-1 group-title="fcn",HD/54 NTV
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/54.m3u8
-#EXTINF:-1 group-title="fcn",HD/55
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/55.m3u8
-#EXTINF:-1 group-title="fcn",HD/56 MYTV
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/56.m3u8
-#EXTINF:-1 group-title="fcn",HD/57 T SPORTS
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/57.m3u8
-#EXTINF:-1 group-title="fcn",HD/58 GB
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/58.m3u8
-#EXTINF:-1 group-title="fcn",HD/59NAGORIK
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/59.m3u8
-#EXTINF:-1 group-title="fcn",HD/60 ZOOM
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/60.m3u8
-#EXTINF:-1 group-title="fcn",HD/61 BOYSAKHI
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/61.m3u8
-#EXTINF:-1 group-title="fcn",HD/62 ASIAN
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/62.m3u8
-#EXTINF:-1 group-title="fcn",HD/63ATN ISLAMIC
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/63.m3u8
-#EXTINF:-1 group-title="fcn",HD/65 EKUSHEY
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/65.m3u8
-#EXTINF:-1 group-title="fcn",HD/66 COLORS BANGLA
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/66.m3u8
-#EXTINF:-1 group-title="fcn",HD/67 STAR PLUS
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/67.m3u8
-#EXTINF:-1 group-title="fcn",HD/68 COLORS
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/68.m3u8
-#EXTINF:-1 group-title="fcn",HD/69ZEE ACTION
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/69.m3u8
-#EXTINF:-1 group-title="fcn",HD/70
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/70.m3u8
-#EXTINF:-1 group-title="fcn",HD/71
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/71.m3u8
-#EXTINF:-1 group-title="fcn",HD/72
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/72.m3u8
-#EXTINF:-1 group-title="fcn",HD/73PTV SPORTS
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/73.m3u8
-#EXTINF:-1 group-title="fcn",HD/74 &TV
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/74.m3u8
-#EXTINF:-1 group-title="fcn",HD/75 STAR GOLD
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/75.m3u8
-#EXTINF:-1 group-title="fcn",HD/76 ZEE CINEMA
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/76.m3u8
-#EXTINF:-1 group-title="fcn",HD/77 SONY MAX
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/77.m3u8
-#EXTINF:-1 group-title="fcn",HD/78 &PICTURES
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/78.m3u8
-#EXTINF:-1 group-title="fcn",HD/79CN
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/79.m3u8
-#EXTINF:-1 group-title="fcn",HD/82 ATN MUSIC
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/82.m3u8
-#EXTINF:-1 group-title="fcn",HD/83
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/83.m3u8
-#EXTINF:-1 group-title="fcn",HD/84BTV
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/84.m3u8
-#EXTINF:-1 group-title="fcn",HD/85
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/85.m3u8
-#EXTINF:-1 group-title="fcn",HD/86
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/86.m3u8
-#EXTINF:-1 group-title="fcn",HD/87
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/87.m3u8
-#EXTINF:-1 group-title="fcn",HD/88
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/88.m3u8
-#EXTINF:-1 group-title="fcn",HD/89
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/89.m3u8
-#EXTINF:-1 group-title="fcn",HD/90
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/90.m3u8
-#EXTINF:-1 group-title="fcn",HD/91
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/91.m3u8
-#EXTINF:-1 group-title="fcn",HD/92
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/92.m3u8
-#EXTINF:-1 group-title="fcn",HD/93ZING
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/93.m3u8
-#EXTINF:-1 group-title="fcn",HD/94ZEE BOLLYWOOD
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/94.m3u8
-#EXTINF:-1 group-title="fcn",HD/95
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/95.m3u8
-#EXTINF:-1 group-title="fcn",HD/96 SONGEET BANGLA
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/96.m3u8
-#EXTINF:-1 group-title="fcn",HD/97
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/97.m3u8
-#EXTINF:-1 group-title="fcn",HD/98 9X JALWA
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/98.m3u8
-#EXTINF:-1 group-title="fcn",HD/99
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/99.m3u8
-#EXTINF:-1 group-title="fcn",HD/100
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/100.m3u8
-#EXTINF:-1 group-title="fcn",HD/102 TSPORTS
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/102.m3u8
-
 #EXTM3U
-#EXTINF:-1 group-title="GP:FCN",CH/72041 STAR SPORTS 1 HD
-http://new-pro.tv:8080/live/Fernando/123321/72041.m3u8
-#EXTINF:-1 group-title="GP:FCN",CH/72042 STAR SPORTS 2 HD
-http://new-pro.tv:8080/live/Fernando/123321/72042.m3u8
-#EXTINF:-1 group-title="GP:FCN",CH/72043 STAR SPORTS 3
-http://new-pro.tv:8080/live/Fernando/123321/72043.m3u8
-#EXTINF:-1 group-title="GP:FCN",CH/72044 SSSL1HD
-http://new-pro.tv:8080/live/Fernando/123321/72044.m3u8
-#EXTINF:-1 group-title="GP:FCN",CH/72045 SSSL2HD
-http://new-pro.tv:8080/live/Fernando/123321/72045.m3u8
-#EXTINF:-1 group-title="GP:FCN",CH/72105 WILLOW HD
-http://new-pro.tv:8080/live/Fernando/123321/72105.m3u8
 
-#EXTINF:-1 group-title="GP:FCN",CH/72073 SIX
-http://new-pro.tv:8080/live/Fernando/123321/72073.m3u8
-#EXTINF:-1 group-title="GP:FCN",CH/72074 TEN1
-http://new-pro.tv:8080/live/Fernando/123321/72074.m3u8
-#EXTINF:-1 group-title="GP:FCN",CH/72075 TEN2
-http://new-pro.tv:8080/live/Fernando/123321/72075.m3u8
-#EXTINF:-1 group-title="GP:FCN",CH/72076 TEN3
-http://new-pro.tv:8080/live/Fernando/123321/72076.m3u8
 
-#EXTINF:-1 group-title="GP:FCN",CH/72046 STAR BHAROT HD
-http://new-pro.tv:8080/live/Fernando/123321/72046.m3u8
-#EXTINF:-1 group-title="GP:FCN",CH/72053 STAR PLUS HD
-http://new-pro.tv:8080/live/Fernando/123321/72053.m3u8
-#EXTINF:-1 group-title="GP:FCN",CH/72064 ZEE TV HD
-http://new-pro.tv:8080/live/Fernando/123321/72064.m3u8
-#EXTINF:-1 group-title="GP:FCN",CH/72081 COLORSHD
-http://new-pro.tv:8080/live/Fernando/123321/72081.m3u8
-#EXTINF:-1 group-title="GP:FCN",CH/72077 SONY SAB
-http://new-pro.tv:8080/live/Fernando/123321/72077.m3u8
+#EXTINF:-1,Aakash Aath
+http://watchindia.net:8880/live/26490/86400/2295.ts
+#EXTINF:-1,Sony Aath
+http://watchindia.net:8880/live/26490/86400/2286.ts
+#EXTINF:-1,Sun Bangla
+http://watchindia.net:8880/live/26490/86400/2290.ts
 
-#EXTINF:-1 group-title="GP:FCN",CH/72050 STAR GOLD SL
-http://new-pro.tv:8080/live/Fernando/123321/72050.m3u8
-#EXTINF:-1 group-title="GP:FCN",CH/72051 STAR GOLD HD
-http://new-pro.tv:8080/live/Fernando/123321/72051.m3u8
-#EXTINF:-1 group-title="GP:FCN",CH/72060 ZEE CINEMA HD
-http://new-pro.tv:8080/live/Fernando/123321/72060.m3u8
-#EXTINF:-1 group-title="GP:FCN",CH/72068 ZEE ACTION 
-http://new-pro.tv:8080/live/Fernando/123321/72068.m3u8
-#EXTINF:-1 group-title="GP:FCN",CH/72079 MAX2
-http://new-pro.tv:8080/live/Fernando/123321/72079.m3u8
-#EXTINF:-1 group-title="GP:FCN",CH/72097 COLORS CINEPLEX
-http://new-pro.tv:8080/live/Fernando/123321/72097.m3u8
-#EXTINF:-1 group-title="GP:FCN",CH/72646 B4U MOVIE 
-http://new-pro.tv:8080/live/Fernando/123321/72646.m3u8
-#EXTINF:-1 group-title="GP:FCN",CH/72659 ZEE BOLLYWOOD 
-http://new-pro.tv:8080/live/Fernando/123321/72659.m3u8
+#EXTINF:-1,Star Jalsha HD
+http://watchindia.net:8880/live/26490/86400/2281.ts
+#EXTINF:-1,Zee Bangla
+http://watchindia.net:8880/live/26490/86400/2283.ts
+#EXTINF:-1,Colors Bangla
+http://watchindia.net:8880/live/26490/86400/2284.ts
 
-#EXTINF:-1 group-title="GP:FCN",CH/72047 STAR JALSHA HD
-http://new-pro.tv:8080/live/Fernando/123321/72047.m3u8
-#EXTINF:-1 group-title="GP:FCN",CH/72063 ZEE BANGLA HD
-http://new-pro.tv:8080/live/Fernando/123321/72063.m3u8
-#EXTINF:-1 group-title="GP:FCN",CH/72085 COLORS BANGLA
-http://new-pro.tv:8080/live/Fernando/123321/72085.m3u8
-#EXTINF:-1 group-title="GP:FCN",CH/72067 ZBC
-http://new-pro.tv:8080/live/Fernando/123321/72067.m3u8
+#EXTINF:-1,Jalsha Movies
+http://watchindia.net:8880/live/26490/86400/2282.ts
+#EXTINF:-1,Zee Bangla Cinema
+http://watchindia.net:8880/live/26490/86400/2287.ts
 
-#EXTINF:-1 group-title="GP:FCN",CH/72078 PIX
-http://new-pro.tv:8080/live/Fernando/123321/72078.m3u8
-#EXTINF:-1 group-title="GP:FCN",CH/72102 ZEECAFEHD
-http://new-pro.tv:8080/live/Fernando/123321/72102.m3u8
+#EXTINF:-1,Dhoom Music
+http://watchindia.net:8880/live/26490/86400/2289.ts
+#EXTINF:-1,Sangeet Bangla
+http://watchindia.net:8880/live/26490/86400/2288.ts
 
-#EXTINF:-1 group-title="GP:FCN",CH/72647 B4U MUSIC
-http://new-pro.tv:8080/live/Fernando/123321/72647.m3u8
-#EXTINF:-1 group-title="GP:FCN",CH/72658 ZING
-http://new-pro.tv:8080/live/Fernando/123321/72658.m3u8
-#EXTINF:-1 group-title="GP:FCN",CH/72657 AP
-http://new-pro.tv:8080/live/Fernando/123321/72657.m3u8
+#EXTINF:-1,Colors TV HD 1
+http://watchindia.net:8880/live/26490/86400/801.ts
+#EXTINF:-1,Colors TV HD 2
+http://watchindia.net:8880/live/26490/86400/2264.ts
+#EXTINF:-1,Colors TV HD UK
+http://watchindia.net:8880/live/26490/86400/2187.ts
+#EXTINF:-1,Sony TV HD 1
+http://watchindia.net:8880/live/26490/86400/1969.ts
+#EXTINF:-1,Sony TV HD 2
+http://watchindia.net:8880/live/26490/86400/2141.ts
+#EXTINF:-1,Sony TV HD UK
+http://watchindia.net:8880/live/26490/86400/2117.ts
+#EXTINF:-1,Sony Sab UK
+http://watchindia.net:8880/live/26490/86400/2189.ts
+#EXTINF:-1,Sony Pal
+http://watchindia.net:8880/live/26490/86400/812.ts
+#EXTINF:-1,Star Bharat HD
+http://watchindia.net:8880/live/26490/86400/780.ts
+#EXTINF:-1,Star Plus HD 1
+http://watchindia.net:8880/live/26490/86400/1924.ts
+#EXTINF:-1,Star Plus HD 2
+http://watchindia.net:8880/live/26490/86400/2278.ts
+#EXTINF:-1,& TV HD
+http://watchindia.net:8880/live/26490/86400/782.ts
+#EXTINF:-1,Zee TV HD
+http://watchindia.net:8880/live/26490/86400/1970.ts
+#EXTINF:-1,Zee TV HD USA
+http://watchindia.net:8880/live/26490/86400/1971.ts
+#EXTINF:-1,Zee Zest HD
+http://watchindia.net:8880/live/26490/86400/2359.ts
 
+#EXTINF:-1,Colors Rishtey HD
+http://watchindia.net:8880/live/26490/86400/830.ts
+#EXTINF:-1,Sony Max 2
+http://watchindia.net:8880/live/26490/86400/2024.ts
+#EXTINF:-1,Sony Max HD
+http://watchindia.net:8880/live/26490/86400/788.ts
+#EXTINF:-1,Sony Wah
+http://watchindia.net:8880/live/26490/86400/814.ts
+#EXTINF:-1,Star Gold India HD
+http://watchindia.net:8880/live/26490/86400/785.ts
+#EXTINF:-1,Star Gold Select HD
+http://watchindia.net:8880/live/26490/86400/784.ts
+#EXTINF:-1,& Pictures
+http://watchindia.net:8880/live/26490/86400/818.ts
+#EXTINF:-1,& Pictures HD
+http://watchindia.net:8880/live/26490/86400/783.ts
+#EXTINF:-1,&xplor HD
+http://watchindia.net:8880/live/26490/86400/2204.ts
+#EXTINF:-1,B4U Plus
+http://watchindia.net:8880/live/26490/86400/823.ts
+#EXTINF:-1,Bollywood Box Office
+http://watchindia.net:8880/live/26490/86400/2157.ts
+#EXTINF:-1,Bollywood BoxOffice HD
+http://watchindia.net:8880/live/26490/86400/819.ts
+#EXTINF:-1,Bollywood Dilse HD
+http://watchindia.net:8880/live/26490/86400/795.ts
+#EXTINF:-1,Bollywood Pop HD
+http://watchindia.net:8880/live/26490/86400/797.ts
+#EXTINF:-1,Bollywood Premier HD
+http://watchindia.net:8880/live/26490/86400/800.ts
+#EXTINF:-1,Cineplex HD
+http://watchindia.net:8880/live/26490/86400/803.ts
+#EXTINF:-1,Manoranjan Movies
+http://watchindia.net:8880/live/26490/86400/804.ts
+#EXTINF:-1,Utsav Gold UK
+http://watchindia.net:8880/live/26490/86400/2300.ts
+#EXTINF:-1,Utsav Plus UK
+http://watchindia.net:8880/live/26490/86400/1925.ts
+#EXTINF:-1,UTV Action
+http://watchindia.net:8880/live/26490/86400/805.ts
+#EXTINF:-1,UTV HD
+http://watchindia.net:8880/live/26490/86400/811.ts
+#EXTINF:-1,Zee Action
+http://watchindia.net:8880/live/26490/86400/821.ts
+#EXTINF:-1,Zee Anmol
+http://watchindia.net:8880/live/26490/86400/813.ts
+#EXTINF:-1,Zee Anmol Cinema
+http://watchindia.net:8880/live/26490/86400/820.ts
+#EXTINF:-1,Zee Bollywood
+http://watchindia.net:8880/live/26490/86400/822.ts
+#EXTINF:-1,Zee Cinema HD
+http://watchindia.net:8880/live/26490/86400/787.ts
+#EXTINF:-1,Zee Classic
+http://watchindia.net:8880/live/26490/86400/802.ts
+
+
+
+#EXTINF:-1,Star Sports 1 HD 1
+http://watchindia.net:8880/live/26490/86400/808.ts
+#EXTINF:-1,Star Sports 1 HD 2
+http://watchindia.net:8880/live/26490/86400/2162.ts
+#EXTINF:-1,Star Sports 1 HD 3
+http://watchindia.net:8880/live/26490/86400/2186.ts
+#EXTINF:-1,Star Sports 1 HD 4
+http://watchindia.net:8880/live/26490/86400/2232.ts
+#EXTINF:-1,Star Sports 1 HD Hindi 1
+http://watchindia.net:8880/live/26490/86400/1072.ts
+#EXTINF:-1,Star Sports 1 HD Hindi 2
+http://watchindia.net:8880/live/26490/86400/2167.ts
+#EXTINF:-1,Star Sports 2 HD 1
+http://watchindia.net:8880/live/26490/86400/1069.ts
+#EXTINF:-1,Star Sports 2 HD 2
+http://watchindia.net:8880/live/26490/86400/2163.ts
+#EXTINF:-1,Star Sports Select 1 HD 1
+http://watchindia.net:8880/live/26490/86400/1070.ts
+#EXTINF:-1,Star Sports Select 1 HD 2
+http://watchindia.net:8880/live/26490/86400/2292.ts
+#EXTINF:-1,Star Sports Select 2 HD
+http://watchindia.net:8880/live/26490/86400/1071.ts
+#EXTINF:-1,Sky Sports Cricket
+http://watchindia.net:8880/live/26490/86400/2090.ts
+#EXTINF:-1,Sky Sports Cricket 2
+http://watchindia.net:8880/live/26490/86400/2143.ts
+#EXTINF:-1,Sky Sports Main Event
+http://watchindia.net:8880/live/26490/86400/2091.ts
+#EXTINF:-1,Sky Sports Premier League
+http://watchindia.net:8880/live/26490/86400/2092.ts
+#EXTINF:-1,Sky Sports Football
+http://watchindia.net:8880/live/26490/86400/2093.ts
+#EXTINF:-1,Sky Sports F1
+http://watchindia.net:8880/live/26490/86400/2094.ts
+#EXTINF:-1,Sky Sports Arena
+http://watchindia.net:8880/live/26490/86400/2095.ts
+#EXTINF:-1,Sky Sports Golf
+http://watchindia.net:8880/live/26490/86400/2096.ts
+#EXTINF:-1,Sony Six HD 1
+http://watchindia.net:8880/live/26490/86400/1763.ts
+#EXTINF:-1,Sony Six HD 2
+http://watchindia.net:8880/live/26490/86400/2144.ts
+#EXTINF:-1,Sony Ten 1 HD 1
+http://watchindia.net:8880/live/26490/86400/1756.ts
+#EXTINF:-1,Sony Ten 1 HD 2
+http://watchindia.net:8880/live/26490/86400/2215.ts
+#EXTINF:-1,Sony Ten 2 HD
+http://watchindia.net:8880/live/26490/86400/1757.ts
+#EXTINF:-1,Sony Ten 3 HD
+http://watchindia.net:8880/live/26490/86400/1758.ts
+#EXTINF:-1,DD Sports
+http://watchindia.net:8880/live/26490/86400/2380.ts
+#EXTINF:-1,Ten Sports
+http://watchindia.net:8880/live/26490/86400/1068.ts
+#EXTINF:-1,Willow HD 1
+http://watchindia.net:8880/live/26490/86400/1067.ts
+#EXTINF:-1,Willow HD 2
+http://watchindia.net:8880/live/26490/86400/2145.ts
+
+#EXTINF:-1,ESPN
+http://watchindia.net:8880/live/26490/86400/2161.ts
+#EXTINF:-1,ESPN2
+http://watchindia.net:8880/live/26490/86400/2307.ts
+
+
+
+
+#EXTINF:-1,9X Jalwa
+http://watchindia.net:8880/live/26490/86400/828.ts
+#EXTINF:-1,9XM Music
+http://watchindia.net:8880/live/26490/86400/827.ts
+#EXTINF:-1,B4U Music
+http://watchindia.net:8880/live/26490/86400/2113.ts
+#EXTINF:-1,E24
+http://watchindia.net:8880/live/26490/86400/829.ts
+#EXTINF:-1,Kadak Hits HD
+http://watchindia.net:8880/live/26490/86400/798.ts
+#EXTINF:-1,Mastiii
+http://watchindia.net:8880/live/26490/86400/826.ts
+#EXTINF:-1,MTV
+http://watchindia.net:8880/live/26490/86400/2062.ts
+#EXTINF:-1,MTV Beats HD
+http://watchindia.net:8880/live/26490/86400/786.ts
+#EXTINF:-1,MTV Hindi
+http://watchindia.net:8880/live/26490/86400/825.ts
+#EXTINF:-1,Music India
+http://watchindia.net:8880/live/26490/86400/2293.ts
+#EXTINF:-1,Zoom
+http://watchindia.net:8880/live/26490/86400/842.ts
+#EXTINF:-1,9X Jhakaas
+http://watchindia.net:8880/live/26490/86400/926.ts
+
+
+
+
+
+
+
+#EXTINF:-1,Sony BBC Earth HD
+http://watchindia.net:8880/live/26490/86400/789.ts
+
+#EXTINF:-1,Discovery Channel Hindi
+http://watchindia.net:8880/live/26490/86400/841.ts
+#EXTINF:-1,Discovery World HD
+http://watchindia.net:8880/live/26490/86400/793.ts
+
+
+
+#EXTINF:-1,National Geographic HD
+http://watchindia.net:8880/live/26490/86400/790.ts
+
+#EXTINF:-1,Nick HD Plus
+http://watchindia.net:8880/live/26490/86400/2237.ts
+#EXTINF:-1,Nick Hindi
+http://watchindia.net:8880/live/26490/86400/2182.ts
+#EXTINF:-1,TLC Hindi
+http://watchindia.net:8880/live/26490/86400/840.ts
+#EXTINF:-1,TravelXP HD
+http://watchindia.net:8880/live/26490/86400/792.ts
+#EXTINF:-1,Sony Yay
+http://watchindia.net:8880/live/26490/86400/2104.ts
+
+
+
+
+
+
+
+
+#EXTINF:-1,Express Entertainment
+http://watchindia.net:8880/live/26490/86400/1029.ts
+#EXTINF:-1,Geo Entertainment
+http://watchindia.net:8880/live/26490/86400/2267.ts
+#EXTINF:-1,Geo Super
+http://watchindia.net:8880/live/26490/86400/1016.ts
+#EXTINF:-1,Geo Tez
+http://watchindia.net:8880/live/26490/86400/1043.ts
+#EXTINF:-1,Hum TV HD
+http://watchindia.net:8880/live/26490/86400/1022.ts
+#EXTINF:-1,Hum Tv UK
+http://watchindia.net:8880/live/26490/86400/1019.ts
+#EXTINF:-1,Peace TV
+http://watchindia.net:8880/live/26490/86400/1063.ts
+#EXTINF:-1,PTV Global UK
+http://watchindia.net:8880/live/26490/86400/1032.ts
+#EXTINF:-1,PTV Home
+http://watchindia.net:8880/live/26490/86400/1033.ts
+#EXTINF:-1,PTV Sports
+http://watchindia.net:8880/live/26490/86400/2325.ts
+#EXTINF:-1,9X Tashan
+http://watchindia.net:8880/live/26490/86400/1950.ts
+#EXTINF:-1,Balle Balle
+http://watchindia.net:8880/live/26490/86400/1955.ts
+#EXTINF:-1,Bollywood Bol Haddipa HD
+http://watchindia.net:8880/live/26490/86400/796.ts
+#EXTINF:-1,Desi Channel
+http://watchindia.net:8880/live/26490/86400/1954.ts
+
+
+#EXTINF:-1,& Flix HD
+http://watchindia.net:8880/live/26490/86400/2088.ts
+#EXTINF:-1,& Prive HD
+http://watchindia.net:8880/live/26490/86400/2103.ts
+#EXTINF:-1,Movies Now HD
+http://watchindia.net:8880/live/26490/86400/2102.ts
+#EXTINF:-1,Romedy Now
+http://watchindia.net:8880/live/26490/86400/2188.ts
+
+#EXTINF:-1,Sky Cinema Action
+http://watchindia.net:8880/live/26490/86400/2176.ts
+#EXTINF:-1,Sky Cinema Comedy
+http://watchindia.net:8880/live/26490/86400/2177.ts
+#EXTINF:-1,Sky Cinema Disney
+http://watchindia.net:8880/live/26490/86400/2175.ts
+#EXTINF:-1,Sky Cinema Drama
+http://watchindia.net:8880/live/26490/86400/2179.ts
+#EXTINF:-1,Sky Cinema Family
+http://watchindia.net:8880/live/26490/86400/2173.ts
+#EXTINF:-1,Sky Cinema Greats
+http://watchindia.net:8880/live/26490/86400/2172.ts
+#EXTINF:-1,Sky Cinema Hits
+http://watchindia.net:8880/live/26490/86400/2171.ts
+#EXTINF:-1,Sky Cinema Premiere
+http://watchindia.net:8880/live/26490/86400/2169.ts
+#EXTINF:-1,Sky Cinema Sci-Fi/Horror
+http://watchindia.net:8880/live/26490/86400/2180.ts
+#EXTINF:-1,Sky Cinema Select
+http://watchindia.net:8880/live/26490/86400/2170.ts
+#EXTINF:-1,Sky Cinema Thriller
+http://watchindia.net:8880/live/26490/86400/2178.ts
+
+#EXTINF:-1,Sony Pix HD
+http://watchindia.net:8880/live/26490/86400/2101.ts
+#EXTINF:-1,Star Movies HD
+http://watchindia.net:8880/live/26490/86400/2080.ts
+#EXTINF:-1,Star World HD
+http://watchindia.net:8880/live/26490/86400/2191.ts
+#EXTINF:-1,Cinemax
+http://watchindia.net:8880/live/26490/86400/2065.ts
+#EXTINF:-1,TNT
+http://watchindia.net:8880/live/26490/86400/2051.ts
+
+
+#EXTINF:-1,Cartoon Network
+http://watchindia.net:8880/live/26490/86400/2052.ts
+
+#EXTINF:-1,Discovery Channel
+http://watchindia.net:8880/live/26490/86400/2036.ts
+#EXTINF:-1,Discovery Life
+http://watchindia.net:8880/live/26490/86400/2124.ts
+#EXTINF:-1,Disney Channel
+http://watchindia.net:8880/live/26490/86400/2046.ts
+#EXTINF:-1,Disney Jr.
+http://watchindia.net:8880/live/26490/86400/2105.ts
+#EXTINF:-1,Disney XD
+http://watchindia.net:8880/live/26490/86400/2066.ts
+
+
+#EXTINF:-1,Nat Geo Wild
+http://watchindia.net:8880/live/26490/86400/2047.ts
+#EXTINF:-1,National Geographic
+http://watchindia.net:8880/live/26490/86400/2037.ts
+#EXTINF:-1,Nick Jr.
+http://watchindia.net:8880/live/26490/86400/2059.ts
+#EXTINF:-1,Nickelodeon
+http://watchindia.net:8880/live/26490/86400/2049.ts
+#EXTINF:-1,Nicktoons
+http://watchindia.net:8880/live/26490/86400/2064.ts
+
+
+#EXTINF:-1,TLC
+http://watchindia.net:8880/live/26490/86400/2139.ts
